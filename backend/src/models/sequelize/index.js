@@ -54,6 +54,12 @@ if (process.env.NODE_ENV === 'test') {
         acquire: 30000,
         idle: 10000,
       },
+      dialectOptions: {
+        ssl: config.nodeEnv === 'production' ? {
+          require: true,
+          rejectUnauthorized: false,
+        } : false,
+      },
     }
   );
 }
