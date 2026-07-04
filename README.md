@@ -26,11 +26,11 @@ A production-grade web application for live auctions of used motorcycles. Built 
 
 ## Prerequisites
 
-- **Node.js** v18+ (推荐 v20 LTS)
+- **Node.js** v18+ 
 - **npm** v9+
-- **MySQL** 8.0 (本地开发) 或 TiDB Cloud (生产环境)
-- **Redis** 7+ (本地开发) 或 Upstash (生产环境)
-- **Docker** & **Docker Compose** (可选，推荐用于本地开发)
+- **MySQL** 8.0 
+- **Redis** 7+ 
+- **Docker** & **Docker Compose** 
 
 ## Quick Start with Docker (Recommended)
 
