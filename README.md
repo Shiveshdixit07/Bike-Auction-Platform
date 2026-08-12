@@ -482,13 +482,5 @@ docker-compose exec backend npm run seed
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Documentation
-
-- [Architecture Document](./ARCHITECTURE.md) - System design and technical decisions
-- [Deployment Guide](./DEPLOYMENT.md) - Production deployment instructions
-- [Assumptions & Trade-offs](./ASSUMPTIONS.md) - Design decisions and rationale
-- [Task Specification](./Task.md) - Original project requirements
+## Contact
+For queries or support, please reach out to [shiveshdixit8400@gmail.com](mailto:shiveshdixit8400@gmail.com).
